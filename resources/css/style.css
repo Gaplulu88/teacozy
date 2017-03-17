@@ -1,0 +1,25 @@
+
+.menu {
+  display: flex;
+  border: 5px solid red;
+}
+    a {
+      flex-grow: 1;
+      background: green;
+      text-align: center;
+      color: white;
+      text-decoration: none;
+      padding: 15px;
+      border: 2px solid;
+    }
+
+
+    .hello {
+      display: flex;
+      background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+      height: 400px;
+      justify-content: center;
+      align-items: center;
+      padding: 50px;
+      color: white;
+    }
